@@ -1,0 +1,9 @@
+#server.address=127.0.0.1
+#server.port=8080
+#registry.servers=127.0.0.1:2181,127.0.0.1:2182,127.0.0.1:2183
+server:
+  port: 5003
+
+registry:
+  workserver: WorkServer3
+  servers: 192.168.202.128:2181,192.168.202.129:2181,192.168.202.130:2181

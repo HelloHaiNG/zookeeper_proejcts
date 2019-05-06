@@ -1,0 +1,5 @@
+server:
+  port: 5007
+spring:
+  application:
+    name: publishsubscribe-server1
